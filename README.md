@@ -5,7 +5,9 @@ Sobre mí
 Bienvenido/a a mi rincón en GitHub. Soy una apasionada desarrollador web fullstack junior con una sólida comprensión de las tecnologías web modernas. Mi viaje en el mundo iT empezó desde hica esamblando y desamblando PC´s viendo sus partes elctronicas. Mas tarde me gusto aprender sobre su softaware, por lo uqe me incursione en Henry.
 
 Hard Skills : 
-Desarrollo Frontend: HTML: Crear estructura y contenido web. CSS: Estilizar y dar formato a las páginas web. JavaScript: Programación del lado del cliente para la interactividad y la lógica del sitio web. Frameworks y bibliotecas frontend, como React
+Desarrollo Frontend: HTML: Crear estructura y contenido web. 
+CSS: Estilizar y dar formato a las páginas web. 
+JavaScript: Programación del lado del cliente para la interactividad y la lógica del sitio web. Frameworks y bibliotecas frontend, como React
 Desarrollo Backend: Lenguajes de programación del lado del servidor, como Node.js Frameworks backend, como Express (Node.js). Creación y gestión de servidores.
 Bases de Datos: Bases de datos SQL y NoSQL.
 Frameworks Frontend: Utilizo React para crear aplicaciones web modernas y funcionales.
